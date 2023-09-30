@@ -1,0 +1,48 @@
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.exe
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.deps.json
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.runtimeconfig.json
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.pdb
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework_MarkupCompile.cache
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework_MarkupCompile.lref
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.g.resources
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\refint\ADO.NET ConnectedMode Homework.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.pdb
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ref\ADO.NET ConnectedMode Homework.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\ADO.NET ConnectedMode Homework.csproj.CopyComplete
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\Resource Dictionaries\ImagesDictionary.baml
+C:\Users\hasan\WPF Projects\ADO.NET ConnectedMode Homework\ADO.NET ConnectedMode Homework\obj\Debug\net6.0-windows\App.baml
